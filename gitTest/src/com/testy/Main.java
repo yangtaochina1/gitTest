@@ -5,8 +5,8 @@ public class Main {
 		System.out.println("master");
 	}
 	/**
-	 * DEV ·ÖÖ§½¨Á¢±àĞ´µÄ´úÂë
-	 * @author YangTao 2017Äê1ÔÂ25ÈÕ ÉÏÎç9:43:47
+	 * DEV åˆ†æ”¯å»ºç«‹ç¼–å†™çš„ä»£ç 
+	 * @author YangTao 2017å¹´1æœˆ25æ—¥ ä¸Šåˆ9:43:47
 	 * @return void
 	 */
 	public void util(){
@@ -18,8 +18,7 @@ public class Main {
 	public void dev2(){
 		System.out.println("dev2");
 	}
-	
-
+	//sssssssss
 	public void dev3(){
 		System.out.println("dev3");
 	}
