@@ -14,8 +14,14 @@ public class Main {
 	}
 	
 
+
 	public void dev2(){
 		System.out.println("dev2");
 	}
 	
+
+	public void dev3(){
+		System.out.println("dev3");
+	}
+
 }
