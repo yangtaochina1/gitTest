@@ -13,5 +13,7 @@ public class Main {
 		System.out.println("util");
 	}
 	
-	
+	public void dev3(){
+		System.out.println("dev3");
+	}
 }
