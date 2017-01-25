@@ -2,7 +2,7 @@ package com.testy;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("aaa");
+		System.out.println("master");
 	}
 	/**
 	 * DEV 分支建立编写的代码
@@ -10,6 +10,11 @@ public class Main {
 	 * @return void
 	 */
 	public void util(){
-		System.out.println("util");
+		System.out.println("dev1");
 	}
+	
+	public void dev2(){
+		System.out.println("dev2");
+	}
+	
 }
