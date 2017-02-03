@@ -55,5 +55,5 @@ public class Main {
 	public void dev10(){
 		
 	}
-	
+
 }
