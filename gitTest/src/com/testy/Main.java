@@ -5,8 +5,8 @@ public class Main {
 		System.out.println("master");
 	}
 	/**
-	 * DEV 分支建立编写的代码
-	 * @author YangTao 2017年1月25日 上午9:43:47
+	 * DEV 鍒嗘敮寤虹珛缂栧啓鐨勪唬鐮�
+	 * @author YangTao 2017骞�鏈�5鏃�涓婂崍9:43:47
 	 * @return void
 	 */
 	public void util(){
@@ -22,8 +22,38 @@ public class Main {
 	public void dev3(){
 		System.out.println("dev3");
 	}
+
 	//修改bug 的代码。
 	public void dev11(){
 		
 	}
+
+	
+	public void dev4(){
+		System.out.println("dev4");
+	}
+	
+	public void dev5(){
+		System.out.println("dev4");
+	}
+	
+	public void dev6(){
+		System.out.println("dev4");
+	}
+	
+	public void dev7(){
+		System.out.println("dev4");
+	}
+	//888
+	public void dev8(){
+		System.out.println("dev4");
+	}
+	
+	public void dev9(){
+		
+	}
+	public void dev10(){
+		
+	}
+	
 }
