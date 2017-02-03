@@ -53,7 +53,12 @@ public class Main {
 		
 	}
 	public void dev10(){
-		
+		//
+		System.out.println("dev10");
+	}
+	
+	public void dev12(){
+		System.out.println("dev12");
 	}
 
 }
