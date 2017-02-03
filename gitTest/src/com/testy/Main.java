@@ -46,6 +46,9 @@ public class Main {
 	public void dev9(){
 		
 	}
+	public void dev10(){
+		
+	}
 	
 	
 }
