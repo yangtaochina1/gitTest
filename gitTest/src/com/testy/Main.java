@@ -22,5 +22,8 @@ public class Main {
 	public void dev3(){
 		System.out.println("dev3");
 	}
-
+	//修改bug 的代码。
+	public void dev11(){
+		
+	}
 }
